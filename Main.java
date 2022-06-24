@@ -54,6 +54,7 @@ public class Main{
             try{
                 sum = 10*sum + Integer.parseInt(Character.toString(s.charAt(i)));
             }catch (Exception e){
+                
                 break;
             }
         }
