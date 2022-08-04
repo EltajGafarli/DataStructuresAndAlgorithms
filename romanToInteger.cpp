@@ -23,5 +23,5 @@ public:
 
 int main(){
     Solution s;
-    cout<<s.romanToInt("MCMXCIV");   // also   MCMXCIV = 1994
+    cout<<s.romanToInt("MCMXCIV");   //   MCMXCIV = 1994
 }
